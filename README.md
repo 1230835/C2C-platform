@@ -1,4 +1,4 @@
-# C2C-B2C_hybrid
+# C2C-platform
 
 objectives -> Consumer-to-Consumer online marketplace
 types of users -> user, admin
